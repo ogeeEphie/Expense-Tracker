@@ -1,0 +1,20 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+.Ogee:hover{
+color: rgb(193, 30, 30);
+
+}
+.Ogee{
+    cursor: pointer;
+}
+.btn{
+    background-color: rgb(0, 255, 174);
+}
